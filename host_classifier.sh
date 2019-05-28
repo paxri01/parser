@@ -1,6 +1,6 @@
 #!/bin/bash
 # -----------------------------------------------------------------------------
-#        File: parser.sh
+#        File: host_classifier.sh
 # Description: Parse inventory file for OS and environment types.
 #      Inputs: Structured inventory file with hostnames xxxxxyzxxxnnn.domain.tld
 #              x = any alpha/numeric character (any length after z)
